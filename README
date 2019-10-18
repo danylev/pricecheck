@@ -1,0 +1,1 @@
+Simple app that deployed to AWS Lambda what periodicaly scrap prices and send notification about that into Telegram
